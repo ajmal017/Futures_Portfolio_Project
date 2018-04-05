@@ -8,4 +8,5 @@ Project Goals:
 5. Explore predictive factors - momentum, value, carry, term structure, etc.
 6. Build multi factor model
 7. Dynamically optimize portfolio for efficient allocation of risk within capital constraints.
-8. Deploy
+8. Schedule DB Update and portfolio optimization functions for after market hours every day.
+9. Write to TWS_API (Interactive Brokers) and execute into Sim account - new position entry orders, rebalance, rollovers etc.
