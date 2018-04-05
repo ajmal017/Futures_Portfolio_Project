@@ -8,3 +8,4 @@ Project Goals:
 5. Explore predictive factors - momentum, value, carry, term structure, etc.
 6. Build multi factor model
 7. Dynamically optimize portfolio for efficient allocation of risk within capital constraints.
+8. Deploy
